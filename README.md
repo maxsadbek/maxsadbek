@@ -43,6 +43,6 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 <!-- [![AslDeveloper07's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qurbonoff11&bg_color=323232&title_color=00ffff)](https://github.com/AslDeveloper07) -->
 
-[![Asilbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AslDeveloper07&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
+[![Maxsad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxsadbek&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
 
 
