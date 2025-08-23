@@ -1,74 +1,92 @@
-# 👋 Hi, I'm Maxsadbek  
+# 👋 Salom, men **Maxsadbek** — Frontend & Web Developer (aka **Dus**)
 
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40"/>
-
----
-
-## 🚀 About Me
-💻 Frontend & Web Developer from **Uzbekistan**  
-🎯 Turning complex problems into simple, elegant solutions  
-🌟 Exploring **AI, Blockchain & Game Development**  
-🤝 Open to collaborations and building exciting projects  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="48" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_makxsad/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxsadbek@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=vercel&logoColor=black)](#)  
+## 🚀 About me
+- 🏠 From: **Uzbekistan**  
+- 💻 Rol: Frontend & Web Developer  
+- 🎯 Qiziqishlar: **AI, Blockchain, Game Dev**  
+- 💡 Motto: *“Code, Create, Conquer!”*  
 
 ---
 
-## 🛠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,figma,git,github,vscode,ps,ai,pycharm,nodejs,mongodb,python,docker,linux&perline=8)](#)
+## 🛠 Tech stack
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,figma,git,github,vscode,ps,ai,python,nodejs,mongodb&perline=8)
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub followers](https://img.shields.io/github/followers/maxsadbek?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20Followers&labelColor=%23555555&color=%2300ffff)
-
-| [![GitHub Streak](https://streak-stats.demolab.com?user=maxsadbek&hide_border=false&border_radius=15&background=0d1117&ring=00ffff&stroke=fff&border=00ffff&fire=fff&currStreakNum=fff&sideNums=00ffff&currStreakLabel=fff&sideLabels=fff&dates=00ffaa)](#) | ![Maxsadbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&icon_color=00ffff&bg_color=0d1117&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15) |
-| ------------- | ------------- |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsadbek&size_weight=0.5&count_weight=0.5&icon_color=00ffff&bg_color=0d1117&text_color=fff&title_color=00ffff&border_color=00ffff&border_radius=15)
+## 📌 Quick links
+- 🔗 Instagram: [@_makxsad](https://www.instagram.com/_makxsad/)  
+- ✉️ Email: [maxsadbek@gmail.com](mailto:maxsadbek@gmail.com)  
+- 🌐 Portfolio: _(bu yerga portfolio linkini qo‘y)_  
+- 💼 LinkedIn: _(link qo‘yish mumkin)_
 
 ---
 
-## 📈 Contribution Graph
-[![Maxsad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxsadbek&bg_color=0d1117&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
+## ✨ Highlight Projects
+| Loyihalar | Tavsif |
+|---|---|
+| **Kundalik Clone** | Maktab uchun boshqaruv tizimi — darslar, baholar, attendance. |
+| **Spin the Wheel** | Fun JS o'yin — animatsiya, ovoz, tasodifiy tanlash. |
+| **Minimal Landing Page** | Toza, responsiv, mobilga mos landing. |
+| **AI ChatBot** | Token-based chat + simple NLP experiments. |
+| **Finance Dashboard** | Charts, filters va analytics demosi. |
 
-![snake gif](https://github.com/maxsadbek/maxsadbek/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Featured Projects  
-🌐 [School Management System (Kundalik Clone)](#)  
-🎮 [Spin the Wheel Game](#)  
-🎨 [Minimal Landing Page](#)  
-⚡ [AI-Powered ChatBot](#)  
-📊 [Finance Dashboard](#)  
+*(Loyihaga bo‘lgan linklarni shu jadvalga qo‘shishni unutmang.)*
 
 ---
 
-## 🏆 Achievements & Badges
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=matrix&no-frame=true&no-bg=true&margin-w=5)
+## 📈 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&icon_color=00ffff&bg_color=0d1117&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15" alt="Maxsad's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maxsadbek&hide_border=false&border_radius=15&background=0d1117&ring=00ffff&stroke=fff&border=00ffff&fire=fff" alt="streak" />
+</p>
 
 ---
 
-## 🎶 Now Playing on Spotify  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jnqmt7hlsgsyjvwgvx7wsh64f4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ffff&bar_color_cover=false)](#)
+## 🧰 Tools I love
+`VSCode` · `Figma` · `Tailwind` · `React` · `Sass` · `Remix Icons` · `Git` · `Vercel`
 
 ---
 
-## ✨ Fun Facts
-- 🖥 Started coding at an early age  
-- 🎮 Love mixing coding with gaming  
-- 🌍 Dream: to create a global platform from Uzbekistan  
-- 🧑‍💻 Motto: *“Code, Create, Conquer!”*  
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🎯 Goals (2025)
+- 🇺🇿 O‘zbekistondan xalqaro darajadagi platforma yaratish  
+- 🎮 O‘yin + taʼlim integratsiyasi ustida ishlash  
+- 🤝 Open-source loyihalarda faol ishtirok
 
 ---
-⭐️ From [Maxsadbek](https://github.com/maxsadbek)
+
+## 🤝 Collaborate with me
+Agar biror loyiha, g‘oya yoki hamkorlik bo‘lsa — xabar yoz: **maxsadbek@gmail.com** yoki DM Instagram’dan. Keling, birga qiziqarli narsa barpo qilamiz! 🚀
+
+---
+
+## 🎵 Currently listening
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jnqmt7hlsgsyjvwgvx7wsh64f4&cover_image=true&theme=novatorem)
+
+---
+
+## ✍️ Tip
+> GitHub profil README’ni chiroyli qilish uchun:  
+> - Loyihalarga **real linklar** qo‘y (live demo + repo).  
+> - README boshida `GIF` yoki `Lottie` bilan o‘z uslubingni ko‘rsat.  
+> - `Badges` va `Stats` bilan professional taʼsir qoldir.
+
+---
+
+## 🔧 Qanday qo‘yam?
+1. GitHub’da `maxsadbek` nomli repository yarating (ya'ni username bilan bir xil nom).  
+2. Ichiga `README.md` faylini joylashtiring (yuqoridagi mazmunni nusxa ko‘chirib yopishtiring).  
+3. Commit qil — profil avtomatik yangilanadi.
+
+---
+
+### 🙌 Rahmat!  
+Agar hozir o‘zgartirib berishimni xohlasang — rang, emoji, yoki loyihalarning tartibini aytgin, men darrov kreativ variantlarini chiqarib beraman. 😎
