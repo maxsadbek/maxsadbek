@@ -1,92 +1,85 @@
-# 👋 Salom, men **Maxsadbek** — Frontend & Web Developer
+<!-- Maxsadbek GitHub Profile README -->
+
+<h1 align="center">👋 Hey, I'm <span style="color:#00ffff;">Maxsadbek</span></h1>
+<h3 align="center">💻 Frontend & Web Developer | 🚀 Dreamer | 🎮 Gamer-Coder</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand" width="48" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;Frontend+%2B+Web+Developer;Exploring+AI%2C+Blockchain%2C+Game+Dev;Code%2C+Create%2C+Conquer!"/>
 </p>
 
 ---
 
-## 🚀 About me
-- 🏠 From: **Uzbekistan**  
-- 💻 Rol: Frontend & Web Developer  
-- 🎯 Qiziqishlar: **AI, Blockchain, Game Dev**  
-- 💡 Motto: *“Code, Create, Conquer!”*  
-
----
-
-## 🛠 Tech stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,figma,git,github,vscode,ps,ai,python,nodejs,mongodb&perline=8)
-
----
-
-## 📌 Quick links
-- 🔗 Instagram: [@_makxsad](https://www.instagram.com/_makxsad/)  
-- ✉️ Email: [maxsadbek@gmail.com](mailto:maxsadbek@gmail.com)  
-- 🌐 Portfolio: _(bu yerga portfolio linkini qo‘y)_  
-- 💼 LinkedIn: _(link qo‘yish mumkin)_
-
----
-
-## ✨ Highlight Projects
-| Loyihalar | Tavsif |
-|---|---|
-| **Kundalik Clone** | Maktab uchun boshqaruv tizimi — darslar, baholar, attendance. |
-| **Spin the Wheel** | Fun JS o'yin — animatsiya, ovoz, tasodifiy tanlash. |
-| **Minimal Landing Page** | Toza, responsiv, mobilga mos landing. |
-| **AI ChatBot** | Token-based chat + simple NLP experiments. |
-| **Finance Dashboard** | Charts, filters va analytics demosi. |
-
-*(Loyihaga bo‘lgan linklarni shu jadvalga qo‘shishni unutmang.)*
-
----
-
-## 📈 GitHub stats
+## 🌐 Connect with me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&icon_color=00ffff&bg_color=0d1117&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15" alt="Maxsad's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maxsadbek&hide_border=false&border_radius=15&background=0d1117&ring=00ffff&stroke=fff&border=00ffff&fire=fff" alt="streak" />
+  <a href="https://www.instagram.com/_makxsad/"><img src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:maxsadbek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </p>
 
 ---
 
-## 🧰 Tools I love
-`VSCode` · `Figma` · `Tailwind` · `React` · `Sass` · `Remix Icons` · `Git` · `Vercel`
+## 🛠 Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,figma,git,github,vscode,ps,ai,python,nodejs,mongodb,docker,linux&perline=8"/>
+</p>
 
 ---
 
-## 🎯 Goals (2025)
-- 🇺🇿 O‘zbekistondan xalqaro darajadagi platforma yaratish  
-- 🎮 O‘yin + taʼlim integratsiyasi ustida ishlash  
-- 🤝 Open-source loyihalarda faol ishtirok
+## 🚀 Featured Projects
+| 🌐 Project | ✨ Description |
+|------------|----------------|
+| [📚 **Kundalik Clone**](#) | A school management system with grades, attendance & reports |
+| [🎡 **Spin the Wheel**](#) | A fun game with animation, sounds & random selector |
+| [🎨 **Minimal Landing**](#) | A responsive, modern & clean landing page |
+| [🤖 **AI ChatBot**](#) | NLP powered assistant with smart responses |
+| [📊 **Finance Dashboard**](#) | Data visualization with charts, filters & stats |
 
 ---
 
-## 🤝 Collaborate with me
-Agar biror loyiha, g‘oya yoki hamkorlik bo‘lsa — xabar yoz: **maxsadbek@gmail.com** yoki DM Instagram’dan. Keling, birga qiziqarli narsa barpo qilamiz! 🚀
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&bg_color=0d1117&text_color=00ffaa&title_color=00ffff&icon_color=00ffff&border_color=00ffff&border_radius=15" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=maxsadbek&theme=highcontrast&hide_border=false&border_radius=15&ring=00ffff&currStreakNum=00ffaa&dates=ffffff" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsadbek&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&border_color=00ffff&border_radius=15"/>
+</p>
 
 ---
 
-## 🎵 Currently listening
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jnqmt7hlsgsyjvwgvx7wsh64f4&cover_image=true&theme=novatorem)
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsadbek&bg_color=0d1117&color=ffffff&line=00ffff&point=00ffaa&area=true&hide_border=false"/>
+</p>
 
 ---
 
-## ✍️ Tip
-> GitHub profil README’ni chiroyli qilish uchun:  
-> - Loyihalarga **real linklar** qo‘y (live demo + repo).  
-> - README boshida `GIF` yoki `Lottie` bilan o‘z uslubingni ko‘rsat.  
-> - `Badges` va `Stats` bilan professional taʼsir qoldir.
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=matrix&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 🔧 Qanday qo‘yam?
-1. GitHub’da `maxsadbek` nomli repository yarating (ya'ni username bilan bir xil nom).  
-2. Ichiga `README.md` faylini joylashtiring (yuqoridagi mazmunni nusxa ko‘chirib yopishtiring).  
-3. Commit qil — profil avtomatik yangilanadi.
+## 🎵 Now Playing  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jnqmt7hlsgsyjvwgvx7wsh64f4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00ffff&bar_color_cover=false"/>
+</p>
 
 ---
 
-### 🙌 Rahmat!  
-Agar hozir o‘zgartirib berishimni xohlasang — rang, emoji, yoki loyihalarning tartibini aytgin, men darrov kreativ variantlarini chiqarib beraman. 😎
+## ✨ Fun Facts  
+- 🖥 Started coding early, still hungry for more 🚀  
+- 🎮 Mixing games & coding is my thing 🎨  
+- 🌍 Dream: Build a global product from Uzbekistan 🇺🇿  
+- 🧑‍💻 Motto: *“Code, Create, Conquer!”*  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%2C+Create%2C+Conquer!&author=Maxsadbek"/>
+</p>
+
+---
+
+⭐️ From [Maxsadbek](https://github.com/maxsadbek)
