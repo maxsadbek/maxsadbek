@@ -1,7 +1,7 @@
-<!-- Maxsadbek GitHub Profile README -->
+<!-- 🚀 Maxsadbek Ultimate GitHub README -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00ffff;">Maxsadbek</span></h1>
-<h3 align="center">💻 Frontend & Web Developer | 🚀 Dreamer | 🎮 Gamer-Coder</h3>
+<h3 align="center">💻 Frontend & Web Developer | 🚀 Dreamer | 🎮 Gamer-Coder | 🧑‍💻 Hacker-Style</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality;Frontend+%2B+Web+Developer;Exploring+AI%2C+Blockchain%2C+Game+Dev;Code%2C+Create%2C+Conquer!"/>
@@ -38,6 +38,32 @@
 
 ---
 
+## 🎯 2025 Goals & Roadmap
+- 🚀 Build & release my **Kundalik Clone** for schools  
+- 🤖 Create & launch a smart **Telegram Bot**  
+- 🎨 Release my **Portfolio Website** on Vercel  
+- 🌍 Contribute to **Open Source projects**  
+- 🏆 Reach **500+ GitHub contributions** this year  
+
+---
+
+## 🎮 Gamer Side
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-%2338B2AC?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CS%3AGO-%23007ACC?style=for-the-badge&logo=counter-strike&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Valorant-%23ff4655?style=for-the-badge&logo=valorant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Articles & Blog
+- ✍️ [Building a Kundalik Clone: My Journey](#)  
+- 🧑‍💻 [How I Made a Random Wheel Game](#)  
+- 🎨 [Designing Minimal Landing Pages](#)  
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&bg_color=0d1117&text_color=00ffaa&title_color=00ffff&icon_color=00ffff&border_color=00ffff&border_radius=15" height="160"/>
@@ -61,6 +87,35 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=matrix&no-frame=true&row=1&column=7"/>
 </p>
+
+---
+
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxsadbek&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
+## 🧩 Coding Challenges
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/maxsadbek?theme=dark&font=baloo&extension=activity"/>
+</p>
+
+---
+
+## ⚡ Live Activity
+- 🎧 Listening to music on **Spotify**  
+- 💻 Currently coding in **VS Code**  
+- 📖 Learning more about **React & Node.js**  
+- 🕹 Sometimes relaxing with **Minecraft / Valorant**  
+
+---
+
+## 📂 Open Source Contributions
+- 🔥 [My GitHub Projects](https://github.com/maxsadbek)  
+- 💡 PRs & Issues on Open Source Repositories  
+- 🌍 Building tools for **Uzbek dev community**  
 
 ---
 
