@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,figma,git,github,vscode,ps,ai,python,nodejs,mongodb,docker,linux&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,figma,git,github,vscode,ps,ai,python,nodejs,mongodb,docker,linux&perline=9"/>
 </p>
 
 ---
@@ -30,10 +30,11 @@
 | 🌐 Project | ✨ Description |
 |------------|----------------|
 | [📚 **Kundalik Clone**](#) | A school management system with grades, attendance & reports |
-| [🎡 **Spin the Wheel**](#) | A fun game with animation, sounds & random selector |
+| [🎡 **Spin the Wheel**](#) | Fun game with animations, sounds & random selector |
 | [🎨 **Minimal Landing**](#) | A responsive, modern & clean landing page |
 | [🤖 **AI ChatBot**](#) | NLP powered assistant with smart responses |
 | [📊 **Finance Dashboard**](#) | Data visualization with charts, filters & stats |
+| [⚡ **Game UI Experiments**](#) | Web projects with game-style UI/UX effects |
 
 ---
 
@@ -75,6 +76,8 @@
 - 🎮 Mixing games & coding is my thing 🎨  
 - 🌍 Dream: Build a global product from Uzbekistan 🇺🇿  
 - 🧑‍💻 Motto: *“Code, Create, Conquer!”*  
+- 🐍 Python lover, but JavaScript is my homie 🤝  
+- 🎧 Lo-fi + Coding = Perfect flow 🔥  
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%2C+Create%2C+Conquer!&author=Maxsadbek"/>
@@ -82,4 +85,20 @@
 
 ---
 
-⭐️ From [Maxsadbek](https://github.com/maxsadbek)
+## 🔮 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
+</p>
+
+---
+
+## 📦 GitHub Goodies  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxsadbek&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxsadbek&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxsadbek&theme=tokyonight"/>
+</p>
+
+---
+
+⭐️ From [Maxsadbek](https://github.com/maxsadbek)  
