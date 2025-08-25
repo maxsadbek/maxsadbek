@@ -1,116 +1,90 @@
-<!-- 🌌 Maxsadbek — CyberCosmos Neon README (No GIFs, All Animations SVG) -->
+<!-- 🌌 Maxsadbek Cosmic GitHub README -->
 
-<!-- Header Wave -->
+<h1 align="center">🚀 Welcome to <span style="color:#00ffff;">Maxsadbek's Universe</span> 👨‍🚀</h1>
+<h3 align="center">💻 Frontend Dev | 🎨 Cosmic Designer | 🎮 Gamer-Coder</h3>
+
+---
+
+## 🌠 Animated Entrance
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00ffff,100:00ffaa&text=Maxsadbek%20—%20CyberCosmos&fontColor=0d1117&fontAlign=50&fontAlignY=35&desc=Code%20%E2%9A%A1%20Create%20%E2%9A%A1%20Conquer&descAlign=50&descAlignY=65"/>
-</p>
-
-<!-- Typing Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=700&color=00FFFF&center=true&vCenter=true&width=850&lines=Frontend+%26+Web+Developer;AI%2C+Blockchain%2C+Game+Dev+Explorer;Koding+%F0%9F%94%A5+Neon+Vibe;Welcome+to+the+Cosmic+Repo!"/>
-</h1>
-
-<!-- Quick Links -->
-<p align="center">
-  <a href="mailto:maxsadbek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maxsadbek%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffff&labelColor=0d1117&color=00ffaa" />
-  </a>
-  <a href="https://www.instagram.com/_makxsad/">
-    <img src="https://img.shields.io/badge/Instagram-_makxsad-0d1117?style=for-the-badge&logo=instagram&logoColor=00ffff&labelColor=0d1117&color=00ffaa" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffff&labelColor=0d1117&color=00ffaa" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=🚀+Launching+into+the+Code+Universe...;✨+Creating+Cosmic+Frontend+Designs...;🎮+Leveling+up+with+JavaScript...;👨‍🚀+Exploring+New+Galaxies+of+Code..."/>
 </p>
 
 ---
 
-## 🛠 Tech Arsenal
+## 🌌 Cosmic Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap,nodejs,python,mongodb,git,github,vscode,figma,ps,ai,docker,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,ts,python,mongodb,docker,linux,git,github&perline=9"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects (Live Cards)
-| 🌐 Project | ✨ Mission |
-|---|---|
-| [📚 **Kundalik Clone**](#) | Grades, attendance, reports — school system |
-| [🎡 **Spin the Wheel**](#) | Randomizer with sound & physics |
-| [🎨 **Minimal Landing**](#) | Clean, responsive, modern UI |
-| [🤖 **AI ChatBot**](#) | Smart replies, context memory |
-| [📊 **Finance Dashboard**](#) | Charts, filters, KPIs |
-| [⚡ **Game UI Experiments**](#) | Game-style effects & UI/UX |
-
----
-
-## 📈 Live Stats (Auto-Refreshing)
+## ⚡ Animated Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&bg_color=0d1117&text_color=00ffaa&title_color=00ffff&icon_color=00ffff&border_color=00ffff&border_radius=14&hide_rank=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=maxsadbek&theme=highcontrast&hide_border=false&border_radius=14&ring=00ffff&currStreakNum=00ffaa&dates=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00ffff&icon_color=00ffaa" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=maxsadbek&theme=neon-dark&hide_border=true&border_radius=15" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsadbek&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ffff&border_color=00ffff&border_radius=14" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsadbek&theme=react-dark&bg_color=0d1117&line=00ffff&point=00ffaa&area=true" />
 </p>
 
 ---
 
-## 🌌 Contribution Nebula
+## 🛸 Cool Animated Widgets  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsadbek&bg_color=0d1117&color=ffffff&line=00ffff&point=00ffaa&area=true&hide_border=false" />
+  <img src="https://komarev.com/ghpvc/?username=maxsadbek&label=🌌+Galactic+Visitors&color=00ffff&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=matrix&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%230d1117&textColor=%2300ffff&aColor=%2300ffaa" alt="Jokes Card"/>
 </p>
 
 ---
 
-## 🐍 Snake Animation (Auto)
-![Snake animation](https://github.com/maxsadbek/maxsadbek/blob/output/github-contribution-grid-snake.svg)
+## 🎇 Fun Animations  
+
+- 🌟 Random GIF:  
+  <p align="center">
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+  </p>  
+
+- 🪐 Contribution Snake:  
+  ![Snake animation](https://github.com/maxsadbek/maxsadbek/blob/output/github-contribution-grid-snake.svg)  
+
+- 🎶 Music Wave Animation:  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  </p>
+
+- 🔥 Dynamic Dev Quote:  
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
+  </p>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=matrix&no-frame=true&row=1&column=7" />
-</p>
+## 🚀 Missions (Projects)  
+
+| 🌠 Project | 🚀 Mission |
+|------------|-------------|
+| 📚 **Kundalik Clone** | Manage school data across galaxies |
+| 🎡 **Spin the Wheel** | Randomizer from another dimension |
+| 🎨 **Minimal Landing** | Clean futuristic design |
+| 🤖 **AI ChatBot** | Your cosmic assistant |
+| 📊 **Finance Dashboard** | Stellar data viz |
+| ⚡ **Game UI Experiments** | Futuristic animations |
 
 ---
 
-## 🎵 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jnqmt7hlsgsyjvwgvx7wsh64f4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=00ffff&bar_color_cover=false" />
-</p>
+## 🌟 Cosmic Motto  
+> *“Don’t just code... launch rockets with it 🚀”*  
 
 ---
 
-## 📦 Summary Cards
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxsadbek&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxsadbek&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxsadbek&theme=tokyonight" />
-</p>
-
----
-
-## 💡 Dev Quote (Animated)
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%2C%20Create%2C%20Conquer!&author=Maxsadbek" />
-</p>
-
----
-
-## 👀 Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxsadbek&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/maxsadbek&count_bg=%2300FFFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VISITS&edge_flat=false"/>
-</p>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ffaa,100:00ffff"/>
-</p>
-
-<!-- Tips:
-1) Snake uchun Actions kerak: rahbar fayl: .github/workflows/snake.yml (yopiq repo emas).
-2) Activity-graph va stats xizmatlari ba'zan kesh qiladi — normal.
-3) Spotify widget ishlashi uchun profil public bo‘lsin.
--->
+⭐️ From [Maxsadbek](https://github.com/maxsadbek) — *Living in the Coding Galaxy*
