@@ -1,62 +1,79 @@
 <!-- 🎨 Maxsadbek Frontend Developer README -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00ffff;">Maxsadbek</span></h1>
-<h3 align="center">💻 Frontend & Web Developer | 🚀 UI/UX Explorer | 🎮 Gamer-Coder</h3>
+<h3 align="center">💻 Frontend & Web Developer | 🚀 UI/UX Explorer | 🎮 Gamer-Coder | 🧑‍💻 Creative Thinker</h3>
 
 ---
 
 ## 🎨 About Me  
 - 🌍 Frontend’ni **san’at** deb bilaman  
-- 💡 Har bir kod satrida dizayn va funksionallikni uyg‘unlashtiraman  
+- 💡 Har bir kod satrida dizayn + funksionallik uyg‘unligi  
 - 🖌️ Figma → Code jarayonini yaxshi ko‘raman  
-- 📱 Responsive va modern UI/UX loyihalar yarataman  
+- 📱 Responsive, modern, creative UI/UX loyihalar yaratuvchisi  
+- 🎬 Kodimda *animation* — **hayotiylik**  
 
 ---
 
 ## 🚀 Tech Arsenal (Frontend Oriented)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,sass,ts,figma,vite&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,sass,ts,figma,vite,git,github,gsap&perline=7"/>
 </p>
+
+---
+
+## 🧩 Creative Tools & Animations  
+- 🎞 **CSS Magic** — 3D hover, glassmorphism, neumorphism  
+- ⚡ **GSAP / Framer Motion** — advanced animations  
+- 🎨 **Tailwind** — responsive + design system  
+- 🖌 **Figma / Photoshop** — UI/UX designing  
+- 🧑‍🎨 **Custom SVG animations**  
 
 ---
 
 ## ⚡ Live Projects  
 | 🚀 Project | 🛠️ Tech Stack | 🌐 Demo |
 |------------|---------------|----------|
-| **Kundalik Clone** | HTML, CSS, JS | soon... |
-| **Spin the Wheel** | HTML, CSS Animations, JS | soon... |
-| **Minimal Landing Page** | HTML, CSS, Remix Icons | soon... |
-| **Frontend Animations Pack** | CSS, GSAP, Framer Motion | soon... |
+| **Kundalik Clone** | HTML, CSS, JS | coming soon... |
+| **Spin the Wheel** | HTML, CSS Animations, JS | coming soon... |
+| **Minimal Landing Page** | HTML, CSS, Remix Icons | coming soon... |
+| **Frontend Animations Pack** | CSS, GSAP, Framer Motion | coming soon... |
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Contributions  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&theme=tokyonight&border_radius=15" height="160"/>
   <img src="https://streak-stats.demolab.com?user=maxsadbek&theme=tokyonight&border_radius=15" height="160"/>
 </p>
 
----
-
-## 🎥 Frontend Animations  
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400"/>
-  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="400"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&column=6" />
 </p>
 
 ---
 
-## 🎯 Focus  
+## 🎥 Frontend Animations (My Vibe)  
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="350"/>
+  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="350"/>
+  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" width="350"/>
+</p>
+
+---
+
+## 🎯 Focus & Future  
 - ⚡ Responsive Web Design  
 - ⚡ Clean UI with CSS & Tailwind  
-- ⚡ Interactive Animations (CSS, GSAP, Framer Motion)  
+- ⚡ Advanced Interactive Animations (GSAP, Framer Motion)  
 - ⚡ Performance Optimization  
+- ⚡ Next.js & Three.js (learning)  
+- ⚡ Creating my own **Frontend Animation Library** 🎬  
 
 ---
 
 ## 🌟 Motto  
-*"Frontend is not just coding, it’s designing experiences."* 🎨
+*"Frontend is not just coding, it’s designing **experiences**."* 🎨  
 
 ---
 
-⭐️ From [Maxsadbek](https://github.com/maxsadbek) — *Frontend Developer in Action*
+⭐️ From [Maxsadbek](https://github.com/maxsadbek) — *Frontend Developer in Action* 🚀
