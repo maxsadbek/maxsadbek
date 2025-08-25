@@ -83,6 +83,11 @@
 
 ---
 
+## 🐍 Snake Animation
+![Snake animation](https://github.com/maxsadbek/maxsadbek/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=matrix&no-frame=true&row=1&column=7"/>
@@ -90,9 +95,11 @@
 
 ---
 
-## 👀 Visitor Count
+## 👀 Visitor Count & Flags
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maxsadbek&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/maxsadbek&count_bg=%2300FFFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
 </p>
 
 ---
@@ -101,6 +108,13 @@
 <p align="center">
   <img src="https://leetcode.card.workers.dev/maxsadbek?theme=dark&font=baloo&extension=activity"/>
 </p>
+
+---
+
+## ⚡ Current Progress
+- 📚 Learning React ⚛️ ▓▓▓▓▓▓░░░░░░ 50%  
+- 🤖 Building Telegram Bot 🤖 ▓▓▓▓▓▓▓▓░░ 80%  
+- 🎨 Portfolio Website 🎨 ▓▓▓▓░░░░░░░ 40%  
 
 ---
 
