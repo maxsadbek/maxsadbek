@@ -1,49 +1,48 @@
-<!-- 🎨 Maxsadbek Frontend Developer README -->
+<!-- ✨ Maxsadbek | Frontend Developer README -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00ffff;">Maxsadbek</span></h1>
-<h3 align="center">💻 Frontend & Web Developer | 🚀 UI/UX Explorer | 🎮 Gamer-Coder | 🧑‍💻 Creative Thinker</h3>
+<h3 align="center">💻 Frontend & Web Developer | 🚀 UI/UX Explorer | 🎮 Gamer-Coder</h3>
 
 ---
 
 ## 🎨 About Me  
 - 🌍 Frontend’ni **san’at** deb bilaman  
-- 💡 Har bir kod satrida dizayn + funksionallik uyg‘unligi  
+- 💡 Kod + Dizayn = **Mukammallik**  
 - 🖌️ Figma → Code jarayonini yaxshi ko‘raman  
-- 📱 Responsive, modern, creative UI/UX loyihalar yaratuvchisi  
-- 🎬 Kodimda *animation* — **hayotiylik**  
+- 📱 Responsive, modern, creative UI/UX yarataman  
+- 🎬 *Animations* — kodimning ruhiyati  
 
 ---
 
-## 🚀 Tech Arsenal (Frontend Oriented)  
+## 🚀 Tech Stack (My Arsenal)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,sass,ts,figma,vite,git,github,gsap&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,sass,ts,vite,git,github,figma,ps,gsap&perline=7"/>
 </p>
 
 ---
 
-## 🧩 Creative Tools & Animations  
-- 🎞 **CSS Magic** — 3D hover, glassmorphism, neumorphism  
-- ⚡ **GSAP / Framer Motion** — advanced animations  
-- 🎨 **Tailwind** — responsive + design system  
-- 🖌 **Figma / Photoshop** — UI/UX designing  
-- 🧑‍🎨 **Custom SVG animations**  
+## 🧩 What I Play With  
+- 🎨 **UI/UX** → Figma, Photoshop  
+- ⚡ **Animations** → GSAP, Framer Motion, CSS Magic  
+- 🌐 **Frameworks** → React, Vite, Tailwind  
+- 🧑‍💻 **Workflow** → Git & GitHub  
 
 ---
 
-## ⚡ Live Projects  
+## ⚡ Live Projects (Soon to Launch 🚀)  
 | 🚀 Project | 🛠️ Tech Stack | 🌐 Demo |
 |------------|---------------|----------|
-| **Kundalik Clone** | HTML, CSS, JS | coming soon... |
-| **Spin the Wheel** | HTML, CSS Animations, JS | coming soon... |
-| **Minimal Landing Page** | HTML, CSS, Remix Icons | coming soon... |
-| **Frontend Animations Pack** | CSS, GSAP, Framer Motion | coming soon... |
+| **Kundalik Clone** | HTML, CSS, JS | 🔜 |
+| **Spin the Wheel Game** | HTML, CSS, JS, Animations | 🔜 |
+| **Minimal Landing Page** | HTML, CSS, Remix Icons | 🔜 |
+| **Frontend Animations Pack** | CSS, GSAP, Framer Motion | 🔜 |
 
 ---
 
-## 📊 GitHub Stats & Contributions  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&theme=tokyonight&border_radius=15" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=maxsadbek&theme=tokyonight&border_radius=15" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&theme=tokyonight&border_radius=20" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=maxsadbek&theme=tokyonight&border_radius=20" height="160"/>
 </p>
 
 <p align="center">
@@ -52,14 +51,14 @@
 
 ---
 
-## ⏳ Coding Activity (WakaTime)  
+## 🕒 WakaTime (Coding Activity)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maxsadbek&theme=tokyonight&border_radius=15" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maxsadbek&theme=tokyonight&border_radius=20" height="300"/>
 </p>
 
 ---
 
-## 🎥 Frontend Animations (My Vibe)  
+## 🎥 My Vibe (Frontend in Motion)  
 <p align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="350"/>
   <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="350"/>
@@ -89,17 +88,17 @@
 
 ## 🎯 Focus & Future  
 - ⚡ Responsive Web Design  
-- ⚡ Clean UI with CSS & Tailwind  
-- ⚡ Advanced Interactive Animations (GSAP, Framer Motion)  
+- ⚡ Clean UI (Tailwind / CSS)  
+- ⚡ Advanced Animations (GSAP, Framer Motion)  
 - ⚡ Performance Optimization  
-- ⚡ Next.js & Three.js (learning)  
-- ⚡ Creating my own **Frontend Animation Library** 🎬  
+- ⚡ Next.js & Three.js (learning...)  
+- ⚡ My Own **Frontend Animation Library** 🎬  
 
 ---
 
 ## 🌟 Motto  
-*"Frontend is not just coding, it’s designing **experiences**."* 🎨  
+> *"Frontend is not just coding, it’s **creating experiences**."* 🎨  
 
 ---
 
-⭐️ From [Maxsadbek](https://github.com/maxsadbek) — *Frontend Developer in Action* 🚀
+⭐️ From [Maxsadbek](https://github.com/maxsadbek) — *Frontend Dev in Action* 🚀
