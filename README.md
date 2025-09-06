@@ -7,6 +7,10 @@
   💻 Frontend Developer | 🎨 UI/UX Explorer | ⚡ Animation Lover
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Interactive+Designs;Frontend+Is+My+Art;Let's+Code+%26+Animate+Together!"/>
+</p>
+
 ---
 
 ## 🎨 About Me  
@@ -20,7 +24,7 @@
 
 ## 🛠 Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,bootstrap,sass,figma,ps,git,github,gsap&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,bootstrap,sass,figma,ps,git,github,gsap,threejs,nextjs&perline=8"/>
 </p>
 
 ---
@@ -52,9 +56,9 @@
 
 ## 🎥 Frontend Vibes  
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="280"/>
-  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="280"/>
-  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" width="280"/>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250"/>
+  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="250"/>
+  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" width="250"/>
 </p>
 
 ---
@@ -83,7 +87,7 @@
 - ⚡ Clean UI (CSS & Tailwind)  
 - ⚡ Advanced Animations (GSAP, Framer Motion)  
 - ⚡ Performance Optimization  
-- ⚡ Exploring Next.js & Three.js  
+- ⚡ Exploring **Next.js & Three.js**  
 - ⚡ Building my **Frontend Animation Library** 🎬  
 
 ---
@@ -93,4 +97,6 @@
 
 ---
 
-⭐ From [Maxsadbek](https://github.com/maxsadbek) — *Frontend Dev in Action* 🚀
+<p align="center">
+  ⭐ From <a href="https://github.com/maxsadbek">Maxsadbek</a> — <em>Frontend Dev in Action 🚀</em>
+</p>
