@@ -1,105 +1,86 @@
-<!-- 🚀 Maxsadbek | Frontend Developer README -->
-
 <h1 align="center">
-  👋 Hey, I'm <span style="color:#00ffff;">Maxsadbek</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Maxsadbek;Frontend+Engineer;Building+Scalable+Web+Apps"/>
 </h1>
-<h3 align="center">
-  💻 Frontend Developer&nbsp;|&nbsp;🎨 UI/UX Explorer&nbsp;|&nbsp;⚡ Animation Lover
-</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Interactive+Designs;Frontend+Is+My+Art;Let's+Code+%26+Animate+Together!"/>
+  <strong>Focused on Crafting High-Performance, Accessible, and Visually Stunning Interfaces.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/maxsadbek">
+    <img src="https://img.shields.io/badge/Status-Available_for_Projects-00ffff?style=for-the-badge" alt="Status"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-## 🎨 About Me  
-- 🌍 Frontend’ni **san’at** deb bilaman  
-- 💡 Kod + Dizayn = **Perfect Experience**  
-- 🖌️ Figma → Code jarayonini yaxshi ko‘raman  
-- 📱 Responsive & Creative UI/UX ishlab chiqaman  
-- 🎬 *Animation* — kodimning yuragi  
+### 👨‍💻 Executive Summary
+Frontend dasturlashni shunchaki kod yozish emas, balki **murakkab muammolarga interaktiv va optimallashgan yechim topish** deb bilaman. Mening asosiy fokusim:
+* **Performance:** Lighthouse ko'rsatkichlari yuqori bo'lgan tezkor ilovalar.
+* **Architecture:** Clean Code va modulli struktura (FSD yoki Atomic Design).
+* **Experience:** Foydalanuvchi va dizayn o'rtasidagi mukammal balans.
 
 ---
 
-## 🛠 Tech Arsenal  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,bootstrap,sass,figma,ps,git,github,gsap,threejs,nextjs&perline=8"/>
+### 🛠 Tech Stack & Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Core** | `JavaScript (ES6+)`, `TypeScript`, `React.js`, `Next.js` |
+| **Styling** | `Tailwind CSS`, `SASS/SCSS`, `Styled Components` |
+| **State Management** | `Redux Toolkit`, `Zustand`, `React Query` |
+| **Animations** | `GSAP`, `Framer Motion`, `Three.js` |
+| **Design & Tools** | `Figma`, `Vite`, `Git/GitHub`, `Webpack` |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,threejs,figma,git" />
 </p>
 
 ---
 
-## 🎯 Projects in Action  
+### 🚀 Key Projects
 
-| 🚀 Project | 🛠️ Stack | 🌐 Demo |
-|------------|-----------|----------|
-| **Kundalik Clone** | HTML, CSS, JS | 🔜 Soon |
-| **Spin the Wheel Game** | HTML, CSS, JS | 🔜 Soon |
-| **Minimal Landing Page** | HTML, CSS, Remix Icons | 🔜 Soon |
-| **Frontend Animations Pack** | CSS, GSAP, Framer Motion | 🔜 Soon |
+> **[Project Name]** | *Frontend Developer*
+> * **Stack:** Next.js, TypeScript, Tailwind, GSAP.
+> * **Key Feature:** Murakkab animatsiyalar va 95+ Lighthouse score.
+> * [🔗 Live Demo] | [📂 Source Code]
+
+> **[Project Name]** | *UI/UX Engineer*
+> * **Stack:** React, Redux Toolkit, SCSS.
+> * **Key Feature:** Responsive dashboard va real-time ma'lumotlar boshqaruvi.
+> * [🔗 Live Demo] | [📂 Source Code]
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&theme=tokyonight&border_radius=20" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=maxsadbek&theme=tokyonight&border_radius=20" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maxsadbek&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsadbek&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🕒 Coding Activity (WakaTime)  
+### 📈 Activity & Development
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maxsadbek&theme=tokyonight&border_radius=20" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maxsadbek&theme=tokyonight&border_radius=10&hide_border=true" width="80%"/>
 </p>
 
 ---
 
-## 🎥 Frontend Vibes  
+### 🎯 Roadmap & Goals
+- [ ] **Advanced Three.js:** Web-da 3D tajribalarni chuqurroq o'rganish.
+- [ ] **Web Performance:** Core Web Vitals bo'yicha ekspert darajasiga chiqish.
+- [ ] **Open Source:** Hamjamiyat uchun foydali kutubxonalar yaratish.
+
+---
+
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250" />
-  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.webp" width="250" />
-  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" width="250" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 </p>
 
----
-
-## 🐍 Snake Contribution  
 <p align="center">
-  <img src="https://github.com/maxsadbek/maxsadbek/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
----
-
-## 🔥 Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 👀 Profile Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxsadbek&label=Profile%20views&color=00ffff&style=flat-square"/>
-</p>
-
----
-
-## 🚀 Focus & Future  
-- ⚡ Responsive Web Design  
-- ⚡ Clean UI (CSS & Tailwind)  
-- ⚡ Advanced Animations (GSAP, Framer Motion)  
-- ⚡ Performance Optimization  
-- ⚡ Exploring **Next.js & Three.js**  
-- ⚡ Building my **Frontend Animation Library** 🎬  
-
----
-
-## 🌟 Motto  
-> *"Frontend is not just coding — it’s **designing experiences**."* 🎨  
-
----
-
-<p align="center">
-  ⭐ From <a href="https://github.com/maxsadbek" style="color:#00ffff;">Maxsadbek</a> — <em>Frontend Dev in Action 🚀</em>
+  Designed with precision by <strong>Maxsadbek</strong> 🚀
 </p>
