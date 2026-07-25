@@ -17,6 +17,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maxsadbek&label=Profile%20Views&color=00F5FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/maxsadbek?label=Followers&style=flat-square&color=00F5FF" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open_to_Work-success?style=flat-square&logo=todoist&logoColor=white" alt="Open to Work"/>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-informational?style=flat-square&logo=readme&logoColor=white" alt="Resume"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-orange?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <br/>
@@ -29,6 +36,18 @@ I'm a Frontend Engineer focused on **performance-first**, **UX-driven** engineer
 - 🚀 **Performance** — consistently 90+ Web Vitals scores, deep focus on runtime optimization
 - 🎨 **Motion & Interaction** — complex animations and interactive UI (GSAP, Framer Motion)
 - 📚 **Currently exploring** — WebAssembly, Rust for the frontend, and React Server Components
+- 🧩 **Problem-solving mindset** — I enjoy breaking down complex product requirements into clean, maintainable component architecture
+- 🌍 **Based in** Uzbekistan, working with distributed/remote teams
+
+```txt
+const maxsadbek = {
+    role: "Frontend Software Engineer",
+    stack: ["TypeScript", "React", "Next.js", "Three.js"],
+    focus: "Performance + Architecture + UX",
+    currentlyLearning: ["Rust", "WebAssembly", "RSC"],
+    funFact: "I debug faster with coffee ☕"
+};
+```
 
 <br/>
 
@@ -70,6 +89,11 @@ I'm a Frontend Engineer focused on **performance-first**, **UX-driven** engineer
 | **Enterprise Dashboard** | Real-time data streaming and optimized complex chart rendering | `Next.js` `RTK Query` `Chart.js` |
 | **E-Commerce Core** | Sub-2s load times via SSR and image optimization | `Next.js` `Tailwind` `Stripe` |
 | **3D Creative Portfolio** | Interactive WebGL/shader-based interface | `React Three Fiber` `GSAP` |
+| **Design System Library** | Reusable, themeable component library adopted across 3+ internal products | `React` `Tailwind` `Storybook` |
+
+<p align="center">
+  📌 <i>More projects and case studies pinned below — check my pinned repositories!</i>
+</p>
 
 <br/>
 
@@ -82,6 +106,24 @@ I'm a Frontend Engineer focused on **performance-first**, **UX-driven** engineer
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxsadbek&theme=tokyonight&hide_border=true" width="94%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxsadbek&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsadbek&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+<br/>
+
+## 🤝 Let's Collaborate
+
+Men doim yangi loyihalar, open-source hissalar va qiziqarli muhandislik muammolari ustida ishlashga ochiqman. Agar birgalikda biror narsa qurishni yoki muhokama qilishni xohlasangiz — yuqoridagi kontakt tugmalari orqali bog'laning.
+
+- 💬 Ask me about **React, Next.js, performance optimization, animation**
+- 📫 Best way to reach me: **Email** yoki **Telegram**
+- ⚡ Fun fact: **Coffee-to-code conversion rate ≈ 98%**
 
 <br/>
 
